@@ -1,0 +1,7 @@
+Il modello di Wikiversità pone l'accento sui "gruppi d'apprendimento" e il "learning by doing". L'idea è che queste comunità di partecipanti attivino i propri progetti di apprendimento e che tale apprendimento si realizzi attraverso la loro collaborazione nella gestione dei progetti stessi, con la modifica delle pagine di Wikiversità.
+
+Wikiversità consiste di un insieme di risorse, che possono essere lezioni, approfondimenti, semplici appunti, glossari, ecc. riguardanti lo studio di un certo argomento. I partecipanti esprimono i loro obiettivi di apprendimento e la comunità collabora a sviluppare delle attività e dei progetti che permettano il raggiungimento di tali obiettivi. Inoltre queste risorse possono essere supportate da quiz interattivi direttamente su Wikiversità per verificare l'apprendimento (vedere Aiuto:Quiz su Wikiversità).
+
+Le risorse sono sviluppate da singoli o gruppi, o di loro iniziativa o come parte di un progetto di apprendimento. Le risorse includono sussidi didattici, piani di lezioni, piani di studio, link esterni ad altre risorse ed elenchi di letture. I gruppi con interessi in ciascuna area creano una rete di risorse che forma la base di discussione e attività di Wikiversità. Le risorse possono essere utilizzate anche da educatori esterni a Wikiversità, sotto i termini della GFDL.
+
+Wikiversità, in futuro, potrebbe anche ospitare dei progetti di ricerca, ma tale parte dell'attività è ancora oggetto di dibattito.
